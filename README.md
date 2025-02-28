@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+If you get error when run this code
+Try install flutter pub get in your terminal
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
